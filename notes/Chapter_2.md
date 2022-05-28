@@ -74,7 +74,7 @@ C++不允许将函数定义嵌套在另一个函数定义中，每个函数定�
 
 #### 2.  下面的預處理器編譯指令是做什麽用的？ 
 
-\#include<iostream>
+\#include <iostream>
 
 \#include代表引入iostream庫，該庫主要包含輸入輸出的類和對象。
 
